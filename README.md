@@ -16,19 +16,19 @@ Azure VM, Docker, Azure Stream Analytics, Azure Event Hubs, Blob Storage, Cosmos
 # Implementation Plan
 Step 1: Set up an Azure Resource Group
 
-Step 2: Create an Event Hub for Data Ingestion
+Step 2: Create an Event Hub for **Data Ingestion**
 
 Step 3: Configure and Run a Generator Code on Azure VM
 
 Step 4: Use Azure Stream Analytics to Process Data
 
-Step 5: Derive Insights and Trends (Data transformation)
+Step 5: Derive Insights and Trends (**Data transformation**)
 
 Step 6: Store Processed Data in Cosmos DB
 
-Step 7: Connect Power BI to Cosmos DB (Visualization)
+Step 7: Connect Power BI to Cosmos DB (**Visualization**)
 
-Step 8: Implement Azure Monitor for Pipeline Monitoring
+Step 8: Implement Azure Monitor for Pipeline **Monitoring**
 
 **Data pipeline** - A data pipeline is a series of steps that automatically moves, processes, and stores data from one system to another, making it ready for analysis or use.
 
