@@ -41,4 +41,4 @@ Step 8: Implement Azure Monitor for Pipeline Monitoring
  **Power BI** is a tool that helps you create interactive reports and dashboards to visualize and analyze your data.
  
 # Note : 
-For optimal scalability and flexibility in managing unstructured data, please choose NoSQL (previously known as Core SQL) in Azure Cosmos DB.
+For optimal scalability and flexibility in managing unstructured data, please choose NoSQL in Azure Cosmos DB.
